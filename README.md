@@ -4,6 +4,12 @@ Tiny Breadboard compatible pcb for experimenting with CAN.
 Tiny 3.3V CAN Tranceiver with adjustable Slew Rate via potentiometer.
 According to the [datasheet](https://datasheets.maximintegrated.com/en/ds/MAX3051.pdf) a resistance of 24kOhm allows a connection speed of 500 Kbit with unshielded twisted pair wires.
 
+### Build status
+
+Not confirmed working yet.
+
+06/21/2019 - PCB designed
+
 ### License
 
     /*
